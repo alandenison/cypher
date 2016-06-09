@@ -30,6 +30,7 @@ _{Let people know what to do if they run into any issues or have questions, idea
 
 _input a 4 letter word, example duck - dcuk_
 _input a 9 letter word, example candidate - cdaai tnde_
+_input a 16 letter word, discombobulation - dobti muisb locoa n_
 _input a multiword phrase, example the cat sat tcsha aett_
 _input close to a perfect square, example the cat is - tciha set_
 _inputs with special characters will be removed, example The dog's car. - toahg resdc_

@@ -10,6 +10,11 @@ var cypher = function(input) {
       result = result + array1[index].charAt(i);
     }
   }
-  result = result.slice(0,5) + " " + result.slice(5,9);
+// debugger;
+  for (index = 0; index < result.length; index += 5) {
+    i = index / 5;
+    result = result.slice(0, index + i + 5) + " " + result.slice(index + i + 5)
+  }
+
   return result
 }
